@@ -1,10 +1,12 @@
 # WhatsApp Clone
 
-Assignment project with three parts:
+A WhatsApp clone built with React and Vite.
 
-1. **Database schema** - `docs/schema.md` (diagram) and `docs/schema.sql`
-2. **React app** - WhatsApp clone built with React + Vite (this project)
-3. **RLS** - `docs/rls.md` and `docs/rls.sql`
+## Features
+- Chat list with search
+- Open a chat and send messages
+- Automatic replies
+- Works on desktop and mobile
 
 ## Run it
 
@@ -12,5 +14,3 @@ Assignment project with three parts:
 npm install
 npm run dev
 ```
-
-Then open the local address shown in the terminal (usually http://localhost:5173).
